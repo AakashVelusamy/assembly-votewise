@@ -1,4 +1,4 @@
-# Voting System
+# Electronic Voting Machine
 
 **Developed by:**
 - **Aakash Velusamy** (23PT01)

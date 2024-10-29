@@ -21,6 +21,6 @@ This project implements an interactive **Voting System** that allows users to ca
   To maintain the integrity of the voting process, the system validates user input, rejecting invalid votes and prompting users for correct entries. This enhances the user experience and ensures data accuracy.
 
 ## Summary
-The Voting System simplifies the voting experience while ensuring transparency and providing clear visual feedback on outcomes. This application serves as an educational tool for understanding fundamental programming concepts, including control flow, data handling, and user input management within an assembly language environment.
+The Voting System simplifies the voting experience while ensuring transparency and providing clear visual feedback on outcomes. This project serves as an educational tool for understanding fundamental programming concepts, including control flow, data handling, and user input management within an assembly language environment.
 
 ---

@@ -1,4 +1,4 @@
-# Electronic Voting Machine
+# VoteWise
 
 **Developed by:**
 - **Aakash Velusamy** (23PT01)

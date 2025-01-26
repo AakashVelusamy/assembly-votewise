@@ -5,7 +5,7 @@
 - **Kabilan S** (23PT14)
 
 ## Overview
-This project implements an interactive **Voting System** that allows users to cast votes for multiple candidates and display results efficiently. Inspired by real-world voting processes, the system offers an easy-to-use interface for managing votes and calculating results.
+This project implements an interactive voting application that allows users to cast votes for multiple candidates and display results efficiently. Inspired by real-world voting processes, the system offers an easy-to-use interface for managing votes and calculating results.
 
 ## Key Features
 - **Voting Process**  
